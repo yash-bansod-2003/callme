@@ -18,5 +18,5 @@
     "strict": true
   },
   "sourceMaps": true,
-  "exclude": ["migrations"]
+  "exclude": ["migrations", "__tests__"]
 }
